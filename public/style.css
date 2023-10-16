@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(foto.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+
+.card {
+    position: absolute;
+    top: 500%;
+    left: 35%;
+    margin: -25px 0 0 -25px;
+}
+
+.card-title {
+    text-align: center;
+}
